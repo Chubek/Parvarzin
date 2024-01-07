@@ -1,0 +1,10 @@
+_build/
+bin/
+lib/
+*.tmp
+*.temp
+*.out
+*.a
+*.so
+*.cx
+*.ca
